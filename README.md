@@ -1,5 +1,5 @@
 # quest-submissions
-cadence bootcamp submissions
+meanandgreen's cadence bootcamp submissions
 
 Chapter 1 - Day 1
 1. Explain what the Blockchain is in your own words.
